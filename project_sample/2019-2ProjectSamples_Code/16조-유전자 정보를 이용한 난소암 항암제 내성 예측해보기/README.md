@@ -27,7 +27,7 @@ The Cancer Genome Atlas (TCGA) Datasets
 http://software.broadinstitute.org/software/igv/tcga
 
 ## Pre-Requisites
-- tensorflow 1.10.0
+- tensorflow 1.14.0
 - keras
 - numpy
 - pandas

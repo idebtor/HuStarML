@@ -1,5 +1,39 @@
 # 19-3 프로젝트
 
+## 넷플릭스 추천 시스템 알고리즘
+
+
+휴스타 1기 ICT 특화 트랙에서 김영섭 교수님의 AI수업 프로젝트의 일환으로 하게된 프로젝트입니다.
+이 노트는 아래 링크를 번역하고 수정하여 작성되었습니다.
+
+https://www.kaggle.com/laowingkin/netflix-movie-recommendation 
+
+Data set은
+https://www.kaggle.com/netflix-inc/netflix-prize-data
+에서 받을 수 있습니다.
+
+이 프로젝트는 넷플릭스의 영화 추천 매커니즘을 만드는 것을 목표로 진행되었습니다. 넷플릭스가 Kaggle에 올린 dataset을 사용했고 여기엔 각각 약 4천개의 영화와 40만의 고객이 포함된 2000만개의 행을 가진 4개의 text data file이 있습니다. 따라서 모두 합하면 1만7천개의 영화와 50만이 넘는 고객의 리스트가 포함되어 있습니다.
+
+약 2기가 쯤 되는 데이터를 커널에 로드하는 것부터 굉장한 도전이 됩니다. 따라서 원글의 작성자는 효율적인 데이터 접근을 하기위해 많은 노력을 했고 이는 코드에 나타나고 있습니다.
+
+
+## 번호판 인식 (차량 번호판 인식기)
+
+# 필요
+- Python 3+
+- pytesseract 4.0
+- OpenCV
+- numpy
+- matplotlib
+
+1. OCR 다운로드 및 설치
+- https://github.com/tesseract-ocr/tesseract/wiki/4.0-with-LSTM#400-alpha-for-windows Windows Installer made with MinGW-w64 설치
+
+  https://niceman.tistory.com/155 설치 방법
+
+2.pip install opencv-python
+3.pip install pytesseract
+
 ## FIFA 2019 데이터 분석 및 시각화
 프로젝트를 하게 된 계기
 평소 축구와 축구 게임에 관심이 많았는데, 실제 게임에서 어떤 항목을 가지고 선수들이 분류가 되는지, 그리고 얼마나 많은 데이터들이 축구 게임을 구성하는데 사용이 되는지 알고 싶어서 이 프로젝트를 하게 되었습니다.
@@ -20,30 +54,6 @@ plotly
 
 각 나라별 Rating 분포
 England가 가장 높을 것이라 예상했으나 많은 선수들 중 Rating이 높은 선수는 몇 안되서, 상대적으로 Spain과 France, Germany, Brazil, Argentina에 비해 현저히 낮은 Rating 분포가 나타났습니다.
-
-
-
-## 데이터 분석을 통한 Scale불량 예측 모델링
-
-1.	분석 배경
-•	최근 제철소 후판 공정에서 Scale 불량이 급격히 증가하는 현상이 발생되었습니다. 해당 공정에서 추출된 데이터를 분석하여 불량의 원인을 찾고, 개선안을 도출하시오.
-2.	개발환경
-•	IDE
--	Jupyter notebook
-•	프로그래밍 언어
--	Python
-•	라이브러리
--	Pandas
--	numpy
--	matplotlib
--	seaborn
--	graphviz
--	sklearn
--	statsmodels
- 
-4.	기대효과
-•	산업 현장에서 요구되는 문제 해결 능력을 배양하기 위해 실제 공정에서 발생되는 데이터와 유사한 데이터를 통해 인사이트를 도출해봄으로써 빅데이터 분석 실무 능력을 기른다.
-
 
 ## Generative Adversarial Networks을 이용한 사진 식별
 
@@ -67,22 +77,26 @@ import tensorflow as tf 를
 import tensorflow.compat.v1 as tf
 tf.disable_v2_behavior() 로 대체 하세요.
 
+## 데이터 분석을 통한 Scale불량 예측 모델링
 
-## 넷플릭스 추천 시스템 알고리즘
-
-
-휴스타 1기 ICT 특화 트랙에서 김영섭 교수님의 AI수업 프로젝트의 일환으로 하게된 프로젝트입니다.
-이 노트는 아래 링크를 번역하고 수정하여 작성되었습니다.
-
-https://www.kaggle.com/laowingkin/netflix-movie-recommendation 
-
-Data set은
-https://www.kaggle.com/netflix-inc/netflix-prize-data
-에서 받을 수 있습니다.
-
-이 프로젝트는 넷플릭스의 영화 추천 매커니즘을 만드는 것을 목표로 진행되었습니다. 넷플릭스가 Kaggle에 올린 dataset을 사용했고 여기엔 각각 약 4천개의 영화와 40만의 고객이 포함된 2000만개의 행을 가진 4개의 text data file이 있습니다. 따라서 모두 합하면 1만7천개의 영화와 50만이 넘는 고객의 리스트가 포함되어 있습니다.
-
-약 2기가 쯤 되는 데이터를 커널에 로드하는 것부터 굉장한 도전이 됩니다. 따라서 원글의 작성자는 효율적인 데이터 접근을 하기위해 많은 노력을 했고 이는 코드에 나타나고 있습니다.
+1.	분석 배경
+•	최근 제철소 후판 공정에서 Scale 불량이 급격히 증가하는 현상이 발생되었습니다. 해당 공정에서 추출된 데이터를 분석하여 불량의 원인을 찾고, 개선안을 도출하시오.
+2.	개발환경
+•	IDE
+-	Jupyter notebook
+•	프로그래밍 언어
+-	Python
+•	라이브러리
+-	Pandas
+-	numpy
+-	matplotlib
+-	seaborn
+-	graphviz
+-	sklearn
+-	statsmodels
+ 
+4.	기대효과
+•	산업 현장에서 요구되는 문제 해결 능력을 배양하기 위해 실제 공정에서 발생되는 데이터와 유사한 데이터를 통해 인사이트를 도출해봄으로써 빅데이터 분석 실무 능력을 기른다.
 
 
 ## Word-level language modeling RNN
@@ -101,10 +115,6 @@ Thanks for reading! As always, we welcome any feedback, so please create an issu
 
 
 ## 개와 고양이 사진 식별
-
-
-
-
 
 프로젝트를 하게 된 계기
 

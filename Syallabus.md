@@ -35,7 +35,7 @@
 
 ## 3. 강의 일정 계획(Daily Schedule)
 
-### 1. (12/19)
+### 1. (8/31) - 1일차 
 1. 인공지능으로의 초대
   - Kiva, Kensho, "AI is a new Electricity"
   - Famous Lecture Series(1)
@@ -49,7 +49,7 @@
   -	입출력, 자료형, 반복문
   - 과제: Pythagorean Theorem
 
-### 2. (12/20)
+### 2. (9/1) - 2일차
 2. 인공지능으로의 초대
   - Famous Lecture Series(2)
     - 머신러닝, 딥러닝 초간단 설명(7분)
@@ -60,7 +60,7 @@
 
   - 과제: Collatz conjecture – hailstorm
 
-### 3. (12/23)
+### 3. (9/2) - 3일차
 3. 인공지능으로의 초대
   - Famous Lecture Series(3)
     - How we can teach computers to make sense of our emotions (11분)
@@ -71,7 +71,7 @@
   - 데이터 다루기
   - 과제: Monty Hall
 
-### 4. (12/24)
+### 4. (9/3) - 4일차
 4. 인공지능으로의 초대
   - Famous Lecture Series(4)
     - The incredible inventions of intuitive AI
@@ -80,7 +80,7 @@
 4. 코딩으로의 초대(4)
   -	OOP(Object Oriented Programming)
 
-### 5. (12/26)
+### 5. (9/4) - 5일차
 5. 인공지능으로의 초대
   - Famous Lecture Series(5) - 3Blue1Brown (20분 x 3)
     - 신경망이란 무엇인가
@@ -92,7 +92,7 @@
   -	OOP 퍼셉트론, 다중 퍼셉트론	퍼셉트론, 다중 퍼셉트론
   -	선형 회귀, 경사 하강법	Iris 데이터셋 다루기
 
-### 6. (12/27)
+### 6. (9/7) - 6일차
 6. 인공지능으로의 초대
   - Famous Lecture Series(6) - 3Blue1Brown (20분 x 3)
     - How AI can save our humanity (15분)
@@ -104,13 +104,13 @@
   - MNIST자료 이해
   - 순전파 MNIST
 
-### 7. (12/30)
+### 7. (9/8) - 7일차
 7. 내 손으로 만져보는 인공지능(3)
   -	오차 역전파, 모델 만들기
   - XOR Simulation
   - 역전파 MNIST
 
-### 8 ~ 9. (12/31 ~ 1/2)	프로젝트 수행과 발표
+### 8 ~ 9. (9/9 ~ 9/11)	프로젝트 수행과 발표
 본 교과목은 세 영역에서 각 1개 이상의 프로젝트 수행하는 것을 목표로 함
 1. 인공지능으로의 초대
 	1.1 인강 예시: 배추가격 예측하기 (강사:동빈나),

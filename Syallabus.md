@@ -40,7 +40,7 @@
   - Kiva, Kensho, "AI is a new Electricity"
   - Famous Lecture Series(1)
     - 남세동의 인공지능(딥러닝) 이야기 (8분),
-		- How computers learn to recognize objects instantly
+    - How computers learn to recognize objects instantly
 
 1. 코딩으로의 초대
   -	인공지능 개발환경 구축

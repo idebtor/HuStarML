@@ -1,7 +1,7 @@
 
 # Artificial Intelligence for Everyone and Robot
 #### HuStar Robot Academy, idebtor@gmail.com - Handong Global University
--------------------------------
+--------
 ## 01 인공지능으로의 초대
 
 ## 6.1 적정선은 어디인가?(How Far is Too Far) | The Age of A.I.

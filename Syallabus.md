@@ -35,7 +35,7 @@
 
 ## 3. 강의 일정 계획(Daily Schedule)
 
-### 1. (8/31) - 1일차 
+### 1일차 
 1. 인공지능으로의 초대
   - Kiva, Kensho, "AI is a new Electricity"
   - Famous Lecture Series(1)
@@ -43,84 +43,85 @@
     - How computers learn to recognize objects instantly
 
 1. 코딩으로의 초대
-  -	인공지능 개발환경 구축
-    - Anaconda, Github Desktop, Git, Atom 설치
+  - 인공지능 개발환경 구축
+    - Anaconda, Github Desktop, Git
     - Jupyter Notebook
   -	입출력, 자료형, 반복문
   - 과제: Pythagorean Theorem
 
-### 2. (9/1) - 2일차
-2. 인공지능으로의 초대
+### 2일차
+2. 인공지능으로의 초대: 인공지응의 개요
   - Famous Lecture Series(2)
     - 머신러닝, 딥러닝 초간단 설명(7분)
 		- 인공지능의 주인이 되기 위해 반드시 알아야 할 것들 (15분)
 
 2. 코딩으로의 초대(2)
-  -	문자형, 리스트, 튜플	신나는 파이썬 과제
-
+  - 문자형, 리스트, 튜플	신나는 파이썬 과제
+  - OOP(Object Oriented Programming)
   - 과제: Collatz conjecture – hailstorm
 
-### 3. (9/2) - 3일차
-3. 인공지능으로의 초대
+### 3일차
+3. 인공지능으로의 초대: 인공지능의 원리
   - Famous Lecture Series(3)
     - How we can teach computers to make sense of our emotions (11분)
 		- Can a robot pass a university entrance exam?
 
 3. 코딩으로의 초대(3)
-  -	넘파이
-  - 데이터 다루기
+  - 리스트컴프리헨션, 딕션너리, 세트
   - 과제: Monty Hall
 
-### 4. (9/3) - 4일차
+### 4일차
 4. 인공지능으로의 초대
   - Famous Lecture Series(4)
     - The incredible inventions of intuitive AI
-		- How a Driverless Car sees the Road(15분)
+    - How a Driverless Car sees the Road(15분)
 
 4. 코딩으로의 초대(4)
-  -	OOP(Object Oriented Programming)
+  - 넘파이(NumPy) Tutorial
+  - 텐서(Tensor)
 
-### 5. (9/4) - 5일차
+### 5일차
 5. 인공지능으로의 초대
   - Famous Lecture Series(5) - 3Blue1Brown (20분 x 3)
     - 신경망이란 무엇인가
-    - 경사하강법
-    - 역전파
+    - 경사하강법(Gradient Descent)
+    - 역전파(Backpropagation)
 
 5. 내 손으로 만져보는 인공지능(1)
-  -	인공지능의 동작 원리,
-  -	OOP 퍼셉트론, 다중 퍼셉트론	퍼셉트론, 다중 퍼셉트론
-  -	선형 회귀, 경사 하강법	Iris 데이터셋 다루기
+  - 인공지능의 동작 원리,
+  - 퍼셉트론, 다중 퍼셉트론, OOP 퍼셉트론
+  - 선형 회귀, 경사Iris 데이터셋 다루기
 
-### 6. (9/7) - 6일차
+### 6일차
 6. 인공지능으로의 초대
   - Famous Lecture Series(6) - 3Blue1Brown (20분 x 3)
     - How AI can save our humanity (15분)
     - Fake videos of real people -- and how to spot them (7분)
 
 6. 내 손으로 만져보는 인공지능(2)
-  -	로지스틱 회귀,
-  - 퍼셉트론, 다중 퍼셉트론
+  - 로지스틱 회귀,
+  - 로지스틱 손실함수
   - MNIST자료 이해
   - 순전파 MNIST
 
-### 7. (9/8) - 7일차
+### 7일차
 7. 내 손으로 만져보는 인공지능(3)
-  -	오차 역전파, 모델 만들기
+  - 오차 역전파, 모델 만들기
   - XOR Simulation
   - 역전파 MNIST
 
-### 8 ~ 9. (9/9 ~ 9/11)	프로젝트 수행과 발표
-본 교과목은 세 영역에서 각 1개 이상의 프로젝트 수행하는 것을 목표로 함
-1. 인공지능으로의 초대
-	1.1 인강 예시: 배추가격 예측하기 (강사:동빈나),
-	1.2 한동대 2019 인공지능 프로젝트 내 것으로 만들기  
-2. 코딩으로의 초대
-	2.1 Collatz Conjecture or Hailstorm
-	2.2 Monty Hall
-3. 내 손으로 만져보는 인공지능
-	3.1 MNIST 손글씨 숫자 인식하기(학생 그룹 프로젝트)  
-	3.2 내가 찾아낸 인공지능(학생 그룹 프로젝트)
+### 8 ~ 9일차 프로젝트 수행과 발표
+
+8. 텐서플로우, 케라스
+   - MINST 데이터셋 다루기
+
+본 교과목은 다음 영역에서 각 1개 이상의 프로젝트 수행하는 것을 목표로 함 
+
+9. 내 손으로 만져보는 인공지능  
+	9.1 인강 예시: 배추가격 예측하기 (강사:동빈나)  
+	9.2 한동대 2021 인공지능 프로젝트 내 것으로 만들기   
+	9.3 MNIST 손글씨 숫자 인식하기(그룹 프로젝트)   
+	9.4 내가 찾아낸 인공지능(그룹 프로젝트)
 
 ------------------------------------------
 _In the beginning, God created the heaven and the earth. Gen1:1_

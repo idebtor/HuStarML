@@ -39,8 +39,9 @@
 1. 인공지능으로의 초대
   - Kiva, Kensho, "AI is a new Electricity"
   - Famous Lecture Series(1)
-    - 남세동의 인공지능(딥러닝) 이야기 (8분),
-    - How computers learn to recognize objects instantly
+    - [남세동의 인공지능(딥러닝) 이야기 (8분)](https://www.youtube.com/watch?v=kMGEpIYPCiM)
+    - [How computers learn to recognize objects instantly](https://www.youtube.com/watch?v=Cgxsv1riJhI&t=208s)
+    - [Quiz](https://forms.gle/jHUNTED9A4fRq75z6)
 
 1. 코딩으로의 초대
   - 인공지능 개발환경 구축
@@ -52,8 +53,10 @@
 ### 2일차
 2. 인공지능으로의 초대: 인공지응의 개요
   - Famous Lecture Series(2)
-    - 머신러닝, 딥러닝 초간단 설명(7분)
-		- 인공지능의 주인이 되기 위해 반드시 알아야 할 것들 (15분)
+    - [머신러닝, 딥러닝 초간단 설명(7분)](https://www.youtube.com/watch?v=aF03asAmQbY)
+    - [인공지능의 주인이 되기 위해 반드시 알아야 할 것들 (15분)](https://youtu.be/BKj3fnPSUIQ)
+    - [Fake videos of real people -- and how to spot them(7분)](https://youtu.be/o2DDU4g0PRo)
+    - [Quiz](https://forms.gle/wh6u11F3dCJtjNei6)
 
 2. 코딩으로의 초대(2)
   - 문자형, 리스트, 튜플	신나는 파이썬 과제

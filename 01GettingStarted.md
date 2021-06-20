@@ -11,7 +11,7 @@ Lecture Notes by idebtor@gmail.com
   2. Read 'GettingStarted' - this file
   3. Follow instructions in 'GettingStarted' as soon as possible(ASAP).
 
-  These reading materials is available at my [github.com/idebtor/HuStar-ML](https://github.com/idebtor/HuStar-ML).
+  These reading materials is available at my [github.com/idebtor/HuStarML](https://github.com/idebtor/HuStarML).
 
 ### How to view markdown(.md) files in Chrome (or rendering in HTML)
   0. View them always in github website automatically and better.
@@ -27,35 +27,6 @@ Lecture Notes by idebtor@gmail.com
   4. Enjoy nicely formatted HTML!
 
 -----------------------------------
-## Install Atom - THE editor for coders
-1. Atom is a text editor that most professional coders love nowadays.
-2. Start Atom.
-3. Install some of essential packages recommended for C/C++ programmers listed below:
-
-    - Platformio-ide-terminal
-      - On successful installation, you will see a +sign at the bottom-left corner of the editor. Click + sign to open a console.
-    - File-icons
-    - Minimap
-    - Markdown-preview
-      - Open a rendered version of the Markdown in the current editor with `ctrl-shift-m`.
-    - Autosave
-      - It automatically saves files when the editors loses focus, are destroyed, or when the window is closed. Believe or not, it is disabled by default. __You must check `enabled`__ in config setting or from the Autosave section of the Settings view.
-
-    __Themes of my personal preference__:
-      - UI Theme - Atom Dark,
-      - Syntax Theme - Oceanic Next
-
-    __Note for Multi-screen users:__ If Atom is displayed off-screen, do the following:
-      1. Alt + Tab to choose the atom window
-      2. Alt + Space to open the context menu
-      3. Press 'm' to select move
-      4. Press any arrow key once
-      5. Move your mouse (The misplaced window will follow your cursor.)
-
-    __Problem in platformio-ide-terminal:__ If the prompt does not show up in the terminal, you may look Issues #765 and #760 at github/platformio/platformio-atom-ide-terminal.
-      1. #760 is a solution for Windows users.
-      2. #765 includes a comment I posted. What I found is to follow the #760 solution except one item. Use apm instead of npm.
-
 ## Install "GitHub Desktop" and "Git"
 - Install __git__ from [this site](https://git-scm.com/downloads) for your computer.
 - Install __GitHub Desktop__
@@ -74,8 +45,8 @@ After installation of GitHub Desktop, be a member if already not.
   - Copy them into your own repository or your own local development folders in your computer you can easily access them.  They should look like the following:
 
   ```
-    ~/HuStar-ML          # Machine Learning
-    ~/HuStar-AS          # Android Studio
+    ~/HuStarML          # Machine Learning
+    ~/HuStarAS          # Android Studio
   ```
 __Note for Multi-screen users:__ Remove the following file if GitHub Desktop is displayed off-screen. Restart Desktop GitHub. (`user` below may be different in your system.)
 ```
@@ -84,7 +55,7 @@ C:\Users\user\AppData\Roaming\GitHub Desktop\window-state.json
 
 __JoyNote__: How do I force `git pull` to overwrite local files?
 
-- Go to the ~/HuStar-ML folder.
+- Go to the ~/HuStarML folder.
 - Open a console and run the following two commands.
 
 ```
@@ -97,10 +68,11 @@ git stash
 ```
 
 __Explanation:__ `git fetch` downloads the latest from remote without trying to merge or rebase anything. Then the `git reset` resets the master branch to what you just fetched. The `--hard` option changes all the files in your working tree to match the files in origin/master
+
 __Caution:__ If you have any local changes, they will be lost. With or without --hard option, any local commits that haven't been pushed will be lost.
 
 __JoyNote__: How do I keep my local files clean after trials?
-- Go to the ~/HuStar-ML folder.
+- Go to the ~/HuStarML folder.
 - Open a console and run the following command.
 ```
 git clean -f
@@ -135,10 +107,42 @@ Do the following in cmd windows or in PowerShell to check your successful instal
       $ python
       >>> import tensorflow as tf
       >>> print(tf.__version__)
-      1.13.1
+      2.3.0
       >>> import keras
       Using TensorFlow backend
       ```
+
+## Install Code or Install Atom - THE editor for coders
+1. Either Code or Atom is a text editor that most professional coders love nowadays.
+2. Start Atom or Code.
+3. For Atom, install some of essential packages recommended for C/C++ programmers listed below:
+
+    - File-icons
+    - Minimap
+    - Markdown-preview
+      - Open a rendered version of the Markdown in the current editor with `ctrl-shift-m`.
+    - Autosave
+      - It automatically saves files when the editors loses focus, are destroyed, or when the window is closed. Believe or not, it is disabled by default. __You must check `enabled`__ in config setting or from the Autosave section of the Settings view.
+
+    __Themes of my personal preference__:
+      - UI Theme - Atom Dark,
+      - Syntax Theme - Oceanic Next
+
+    __Note for Multi-screen users:__ If Atom is displayed off-screen, do the following:
+      1. Alt + Tab to choose the atom window
+      2. Alt + Space to open the context menu
+      3. Press 'm' to select move
+      4. Press any arrow key once
+      5. Move your mouse (The misplaced window will follow your cursor.)
+
+      Alternatively, remove the following file: [`user` is your login name]
+        ```
+        C:\Users\user\AppData\Roaming\GitHub Desktop\window-state.json
+      ```
+
+    __Problem in platformio-ide-terminal:__ If the prompt does not show up in the terminal, you may look Issues #765 and #760 at github/platformio/platformio-atom-ide-terminal.
+      1. #760 is a solution for Windows users.
+      2. #765 includes a comment I posted. What I found is to follow the #760 solution except one item. Use apm instead of npm.
 
 #### Need more installation?
 Use the following command if you need more installation of packages (-U for upgrade only):

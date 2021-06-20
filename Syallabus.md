@@ -1,7 +1,6 @@
 # HuStar Robot Academy - AI for Robot Course
 
 #### By Youngsup Kim, idebtor@gmail.com, Handong Global University
-#### 2019.12.19 Created
 -------------------------------
 ### How to view markdown(.md) files in Chrome (or rendering in HTML)
  0. View them in github website automatically.

@@ -66,8 +66,9 @@
 ### 3일차
 3. 인공지능으로의 초대: 인공지능의 원리
   - Famous Lecture Series(3)
-    - How we can teach computers to make sense of our emotions (11분)
-		- Can a robot pass a university entrance exam?
+    - [How we teach computers to understand pictures (17분45초)](https://youtu.be/40riCqvRoMs)
+    - [How AI can save our humanity](https://youtu.be/ajGgd9Ld-Wc)
+    - [Quiz 3](https://forms.gle/53TCeUh18Uf7QsP9A)
 
 3. 코딩으로의 초대(3)
   - 리스트컴프리헨션, 딕션너리, 세트
@@ -76,8 +77,9 @@
 ### 4일차
 4. 인공지능으로의 초대
   - Famous Lecture Series(4)
-    - The incredible inventions of intuitive AI
-    - How a Driverless Car sees the Road(15분)
+    - [The incredible inventions of intuitive AI(15분23초)](https://www.youtube.com/watch?v=aR5N2Jl8k14)
+    - [How a Driverless Car sees the Road(15분)](https://youtu.be/tiwVMrTLUWg)
+    - [Quiz 4](https://forms.gle/8mqRf7GFU7L1EzHy6)
 
 4. 코딩으로의 초대(4)
   - 넘파이(NumPy) Tutorial
@@ -85,46 +87,56 @@
 
 ### 5일차
 5. 인공지능으로의 초대
-  - Famous Lecture Series(5) - 3Blue1Brown (20분 x 3)
-    - 신경망이란 무엇인가
-    - 경사하강법(Gradient Descent)
-    - 역전파(Backpropagation)
+  - Famous Lecture Series(5) 
+    - [How we can teach computers to make sense of our emotions 11분13초](https://youtu.be/hs-YuHv0vUk)
+    - [Can a robot pass a university entrance exam? 13분37초](https://www.youtube.com/watch?v=BXcFEhl7ynM)
+    - [Quiz 5](https://forms.gle/ntdB6N8DMBTFtxkVA)
+
 
 5. 내 손으로 만져보는 인공지능(1)
   - 인공지능의 동작 원리,
   - 퍼셉트론, 다중 퍼셉트론, OOP 퍼셉트론
-  - 선형 회귀, 경사Iris 데이터셋 다루기
+  - 선형 회귀, 경사 하강법
 
 ### 6일차
 6. 인공지능으로의 초대
-  - Famous Lecture Series(6) - 3Blue1Brown (20분 x 3)
-    - How AI can save our humanity (15분)
-    - Fake videos of real people -- and how to spot them (7분)
+  - Famous Lecture Series(6) 
+    - [적정선은 어디인가? How Far is Too Far - 34분39초](https://youtu.be/UwsrzCVZAb8)
+    - [Quiz 6](https://forms.gle/j4NQcbWcscKGByEs6)
+
 
 6. 내 손으로 만져보는 인공지능(2)
-  - 로지스틱 회귀,
-  - 로지스틱 손실함수
+  - 로지스틱 회귀, 손실함수
   - MNIST자료 이해
   - 순전파 MNIST
 
 ### 7일차
+7. 인공지능으로의 초대
+  - Famous Lecture Series(7) 
+    - [A.I.를 통한 치유(Healed through A.I.) - 39분54초](https://youtu.be/V5aZjsWM2wo)
+    - [Quiz 7](https://forms.gle/DpKTcUmv6TgNTdw46)
+
 7. 내 손으로 만져보는 인공지능(3)
   - 오차 역전파, 모델 만들기
   - XOR Simulation
   - 역전파 MNIST
 
 ### 8 ~ 9일차 프로젝트 수행과 발표
+8. 인공지능으로의 초대
+  - Famous Lecture Series(8) 
+    - [A.I.를 이용해 더 나은 인간 만들기 (Using A.I. to build a better human) - 44분26초](https://www.youtube.com/watch?v=lrv8ga02VNg)
+    - [Quiz 8](https://forms.gle/AbgKaHaHTw2eHJZj8)
 
-8. 텐서플로우, 케라스
+8. 내 손으로 만져보는 인공지능(4)
+   - 텐서플로우, 케라스, PyTorch
    - MINST 데이터셋 다루기
 
-본 교과목은 다음 영역에서 각 1개 이상의 프로젝트 수행하는 것을 목표로 함 
+9. 내 손으로 만져보는 인공지능(5)
+  - 인강 예시: 배추가격 예측하기 (강사:동빈나)  
+  - 한동대 재학생 인공지능 프로젝트 내 것으로 만들기   
+  - MNIST 손글씨 숫자 인식하기(그룹 프로젝트)   
+  - 내가 찾아낸 인공지능(그룹 프로젝트)
 
-9. 내 손으로 만져보는 인공지능  
-	9.1 인강 예시: 배추가격 예측하기 (강사:동빈나)  
-	9.2 한동대 2021 인공지능 프로젝트 내 것으로 만들기   
-	9.3 MNIST 손글씨 숫자 인식하기(그룹 프로젝트)   
-	9.4 내가 찾아낸 인공지능(그룹 프로젝트)
-
+### 본 교과목은 위의 영역에서 각 1개 이상의 프로젝트 수행하는 것을 목표로 함 
 ------------------------------------------
 _In the beginning, God created the heaven and the earth. Gen1:1_

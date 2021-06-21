@@ -167,5 +167,7 @@ $ _start_ipynb.bat
 3. Now, you can read, run and edit the code/markdown cells.
 ----------------------------
 _One thing I know, I was blind but now I see. John 9:25_
+  
+God is good all the time.
 
 ----------------------------

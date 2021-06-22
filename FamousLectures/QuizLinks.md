@@ -6,7 +6,7 @@
 ## Links for Quizzes
 
   [Quiz 1](https://forms.gle/jHUNTED9A4fRq75z6)   
-  [Quiz 2]()   
+  [Quiz 2](https://forms.gle/wh6u11F3dCJtjNei6)   
   [Quiz 3]()   
   [Quiz 4]()  
   [Quiz 5]()  

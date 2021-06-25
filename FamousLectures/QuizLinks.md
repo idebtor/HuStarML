@@ -10,7 +10,7 @@
   [Quiz 3](https://forms.gle/53TCeUh18Uf7QsP9A)   
   [Quiz 4](https://forms.gle/8mqRf7GFU7L1EzHy6)  
   [Quiz 5](https://forms.gle/ntdB6N8DMBTFtxkVA)  
-  [Quiz 6]()  
+  [Quiz 6](https://forms.gle/kaEZCxVEJ11ADrsy5)  
   [Quiz 7]()  
   [Quiz 8]()  
 

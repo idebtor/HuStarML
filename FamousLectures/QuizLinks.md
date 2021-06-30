@@ -14,5 +14,8 @@
   [Quiz 7](https://forms.gle/DpKTcUmv6TgNTdw46)  
   [Quiz 8]()  
 
+  ## 프로젝트 예비보고서 올리는 링크 
+  https://docs.google.com/forms/d/e/1FAIpQLSd2UAhcsbuYbmcEm2xAZezSBuh6GrOrdQTlZzE3RAT0A2tsWQ/viewform
+
 ------------------------------------------
 _In the beginning, God created the heaven and the earth. Gen1:1_

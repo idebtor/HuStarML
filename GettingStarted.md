@@ -80,7 +80,6 @@ git clean -f
 __Explanation:__ To delete all untracked files.
 
 
-
 ## Install Anaconda
 Anaconda is  a Python and R distribution package. It aims to provide everything you need (python wise) for data science "out of the box".  It includes:
 -	The core python language
@@ -88,7 +87,7 @@ Anaconda is  a Python and R distribution package. It aims to provide everything 
 -	Spyder (IDE/editor) and Jupyter Notebook
 -	conda, Anaconda's own package manager, used for updating Anaconda and packages
 
-#### To install the anaconda:
+### To install the anaconda:
 
   - Visit website [Anaconda Distribution](https://www.anaconda.com/distribution/)
     - Choose one of Windows/MacOS/Linux
@@ -100,7 +99,7 @@ Anaconda is  a Python and R distribution package. It aims to provide everything 
 
   - Need help? Follow [this guide](https://m.blog.naver.com/PostView.nhn?blogId=jooostory&logNo=221196479998&proxyReferer=https%3A%2F%2Fwww.google.com%2F).
 
-#### After your installation
+### After your installation
 Do the following in cmd windows or in PowerShell to check your successful installation; ($ is just a prompt of your console, >>> is a prompt from Python.)
 
       ```
@@ -112,18 +111,18 @@ Do the following in cmd windows or in PowerShell to check your successful instal
       Using TensorFlow backend
       ```
 
-## Install Code - THE editor for coders
-1. Either Code is a text editor that most professional coders love nowadays.
-2. Start Code.
+## Install the 'Code' by Microsoft - THE editor for coders
+1. The Code is a text editor that most professional coders love nowadays.
+2. Start the Code.
 
-#### Need more installation?
+### Need more installation?
 Use the following command if you need more installation of packages (-U for upgrade only):
   ```
   $ pip install a_package_name
   $ pip install -U a_package_name              
   ```
 
-### How to view JupyterLab or Jupyter Lab/Notebook files(.ipynb) in a browser
+### How to view Jupyter-Lab (or Jupyter Notebook) files(.ipynb) in a browser
 
 0. View them in github website automatically, but cannot run the code cells.
 and/or

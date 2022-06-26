@@ -37,102 +37,117 @@
 ### 1일차 
 1. 인공지능으로의 초대
   - Kiva, Kensho, "AI is a new Electricity"
-  - Famous Lecture Series(1)
+  - KMOOCx 강의 1-1, 1-2, 1-3
+  - 명강의 시리즈(1)
     - [남세동의 인공지능(딥러닝) 이야기 (8분)](https://www.youtube.com/watch?v=kMGEpIYPCiM)
     - [How computers learn to recognize objects instantly](https://www.youtube.com/watch?v=Cgxsv1riJhI&t=208s)
     - [Quiz 1](https://forms.gle/jHUNTED9A4fRq75z6)
 
-1. 코딩으로의 초대
+1. 코딩으로의 초대(1)
   - 인공지능 개발환경 구축
-    - Anaconda, Github Desktop, Git
-    - JuputerLab
-  -	입출력, 자료형, 반복문
-  - 과제: Pythagorean Theorem
+    - AI1-1 Gettingstarted.ipynb
+    - AI1-2 Jupyter.ipynb
+    - AI1-3 Markdown.ipynb
+      - Git, GitHub, Github Desktop
+      - Anaconda (Python Development Package)
+      - Jupyter-Lab (or Jupyter Notebook)
+1. 코딩으로의 초대(1)
+  -	Py1 Overview.ipynb
+  - Py2 DataTypes.ipynb
 
 ### 2일차
-2. 인공지능으로의 초대: 인공지응의 개요
-  - Famous Lecture Series(2)
+2. 인공지능으로의 초대: 인공지능의 개요
+  - KMOOCx 강의 2-1, 2-2, 2-3
+  - 명강의 시리즈(2)
     - [머신러닝, 딥러닝 초간단 설명(7분)](https://www.youtube.com/watch?v=aF03asAmQbY)
     - [인공지능의 주인이 되기 위해 반드시 알아야 할 것들 (15분)](https://youtu.be/BKj3fnPSUIQ)
     - [Fake videos of real people -- and how to spot them(7분)](https://youtu.be/o2DDU4g0PRo)
     - [Quiz 2](https://forms.gle/wh6u11F3dCJtjNei6)
 
 2. 코딩으로의 초대(2)
-  - 문자형, 리스트, 튜플	신나는 파이썬 과제
-  - OOP(Object Oriented Programming)
-  - 과제: Collatz conjecture – hailstorm
+  - Py3 Iteration.ipynb
+  - Py4 Function.ipynb
 
 ### 3일차
 3. 인공지능으로의 초대: 인공지능의 원리
-  - Famous Lecture Series(3)
+  - KMOOCx 강의 3-1, 3-2, 3-3
+  - 명강의 시리즈(3)
     - [How we teach computers to understand pictures (17분45초)](https://youtu.be/40riCqvRoMs)
     - [How AI can save our humanity](https://youtu.be/ajGgd9Ld-Wc)
     - [Quiz 3](https://forms.gle/53TCeUh18Uf7QsP9A)
 
 3. 코딩으로의 초대(3)
-  - 리스트컴프리헨션, 딕션너리, 세트
-  - 과제: Monty Hall
+  - Py5 String.ipynb
+  - Py6 List.ipynb
 
 ### 4일차
 4. 인공지능으로의 초대
-  - Famous Lecture Series(4)
+  - KMOOCx 강의 4-1, 4-2, 4-3
+  - 명강의 시리즈(4)
     - [The incredible inventions of intuitive AI(15분23초)](https://www.youtube.com/watch?v=aR5N2Jl8k14)
     - [How a Driverless Car sees the Road(15분)](https://youtu.be/tiwVMrTLUWg)
     - [Quiz 4](https://forms.gle/8mqRf7GFU7L1EzHy6)
 
 4. 코딩으로의 초대(4)
-  - 넘파이(NumPy) Tutorial
-  - 텐서(Tensor)
+  - Py7 Listcomp.ipynb
+  - Py8 Dictionary.ipynb
 
 ### 5일차
 5. 인공지능으로의 초대
-  - Famous Lecture Series(5) 
+  - KMOOCx 강의 5-1, 5-2, 5-3
+  - 명강의 시리즈(5)
     - [How we can teach computers to make sense of our emotions 11분13초](https://youtu.be/hs-YuHv0vUk)
     - [Can a robot pass a university entrance exam? 13분37초](https://www.youtube.com/watch?v=BXcFEhl7ynM)
     - [Quiz 5](https://forms.gle/ntdB6N8DMBTFtxkVA)
 
+4. 코딩으로의 초대(5)
+  - AI3-1 NumPyBasics.ipynb
+  - AI3-2 NumPyArrays.ipynb
+  - AI3-3 NumPySlicing.ipynb
 
-5. 내 손으로 만져보는 인공지능(1)
+### 6일차
+6. 인공지능으로의 초대
+  - KMOOCx 강의 6-1, 6-2, 6-3
+  - 명강의 시리즈(6)
+    - [적정선은 어디인가? How Far is Too Far - 34분39초](https://youtu.be/UwsrzCVZAb8)
+    - [Quiz 6](https://forms.gle/j4NQcbWcscKGByEs6)
+
+6. 내 손으로 만져보는 인공지능(1)
   - 인공지능의 동작 원리,
   - 퍼셉트론, 다중 퍼셉트론, OOP 퍼셉트론
   - 선형 회귀, 경사 하강법
 
-### 6일차
-6. 인공지능으로의 초대
-  - Famous Lecture Series(6) 
-    - [적정선은 어디인가? How Far is Too Far - 34분39초](https://youtu.be/UwsrzCVZAb8)
-    - [Quiz 6](https://forms.gle/j4NQcbWcscKGByEs6)
+6. 코딩으로의 초대(6)
+  - AI3-4 NumPyBroadcast.ipynb
+  - AI3-5 NumPyRandom.ipynb
+  - AI3-6 NumPyProblemSet.ipynb
 
+### 7일차
+7. 인공지능으로의 초대
+  - KMOOCx 강의 7-1, 7-2, 7-3
+  - 명강의 시리즈(7)
+    - [A.I.를 통한 치유(Healed through A.I.) - 39분54초](https://youtu.be/V5aZjsWM2wo)
+    - [Quiz 7](https://forms.gle/DpKTcUmv6TgNTdw46)
 
-6. 내 손으로 만져보는 인공지능(2)
+7. 내 손으로 만져보는 인공지능(2)
   - 로지스틱 회귀, 손실함수
   - MNIST자료 이해
   - 순전파 MNIST
 
-### 7일차
-7. 인공지능으로의 초대
-  - Famous Lecture Series(7) 
-    - [A.I.를 통한 치유(Healed through A.I.) - 39분54초](https://youtu.be/V5aZjsWM2wo)
-    - [Quiz 7](https://forms.gle/DpKTcUmv6TgNTdw46)
-
-7. 내 손으로 만져보는 인공지능(3)
+### 8 ~ 10일차: 
+내 손으로 만져보는 인공지능 및 프로젝트 수행과 발표
+8. 내 손으로 만져보는 인공지능(3)
   - 오차 역전파, 모델 만들기
   - XOR Simulation
   - 역전파 MNIST
+  - 텐서플로우, 케라스, PyTorch
+  - MINST 데이터셋 다루기
 
-### 8 ~ 9일차 프로젝트 수행과 발표
-8. 인공지능으로의 초대
-  - Famous Lecture Series(8) 
-    - [A.I.를 이용해 더 나은 인간 만들기 (Using A.I. to build a better human) - 44분26초](https://www.youtube.com/watch?v=lrv8ga02VNg)
-    - [Quiz 8](https://forms.gle/AbgKaHaHTw2eHJZj8)
-
-8. 내 손으로 만져보는 인공지능(4)
-   - 텐서플로우, 케라스, PyTorch
-   - MINST 데이터셋 다루기
-
-9. 내 손으로 만져보는 인공지능(5)
-  - 인강 예시: 배추가격 예측하기 (강사:동빈나)  
+9. 내 손으로 만져보는 인공지능(4)
+  - 배추가격 예측하기 
   - 한동대 재학생 인공지능 프로젝트 내 것으로 만들기   
+
+10. 내 손으로 만져보는 인공지능(5)
   - MNIST 손글씨 숫자 인식하기(그룹 프로젝트)   
   - 내가 찾아낸 인공지능(그룹 프로젝트)
 

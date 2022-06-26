@@ -112,37 +112,9 @@ Do the following in cmd windows or in PowerShell to check your successful instal
       Using TensorFlow backend
       ```
 
-## Install Code or Install Atom - THE editor for coders
-1. Either Code or Atom is a text editor that most professional coders love nowadays.
-2. Start Atom or Code.
-3. For Atom, install some of essential packages recommended for C/C++ programmers listed below:
-
-    - File-icons
-    - Minimap
-    - Markdown-preview
-      - Open a rendered version of the Markdown in the current editor with `ctrl-shift-m`.
-    - Autosave
-      - It automatically saves files when the editors loses focus, are destroyed, or when the window is closed. Believe or not, it is disabled by default. __You must check `enabled`__ in config setting or from the Autosave section of the Settings view.
-
-    __Themes of my personal preference__:
-      - UI Theme - Atom Dark,
-      - Syntax Theme - Oceanic Next
-
-    __Note for Multi-screen users:__ If Atom is displayed off-screen, do the following:
-      1. Alt + Tab to choose the atom window
-      2. Alt + Space to open the context menu
-      3. Press 'm' to select move
-      4. Press any arrow key once
-      5. Move your mouse (The misplaced window will follow your cursor.)
-
-      Alternatively, remove the following file: [`user` is your login name]
-        ```
-        C:\Users\user\AppData\Roaming\GitHub Desktop\window-state.json
-      ```
-
-    __Problem in platformio-ide-terminal:__ If the prompt does not show up in the terminal, you may look Issues #765 and #760 at github/platformio/platformio-atom-ide-terminal.
-      1. #760 is a solution for Windows users.
-      2. #765 includes a comment I posted. What I found is to follow the #760 solution except one item. Use apm instead of npm.
+## Install Code - THE editor for coders
+1. Either Code is a text editor that most professional coders love nowadays.
+2. Start Code.
 
 #### Need more installation?
 Use the following command if you need more installation of packages (-U for upgrade only):
@@ -151,18 +123,18 @@ Use the following command if you need more installation of packages (-U for upgr
   $ pip install -U a_package_name              
   ```
 
-### How to view Jupyter Notebook files(.ipynb) in a browser
+### How to view JupyterLab or Jupyter Lab/Notebook files(.ipynb) in a browser
 
 0. View them in github website automatically, but cannot run the code cells.
 and/or
-1. Follow the instructions [here](https://jupyter.readthedocs.io/en/latest/install.html) to install Python and Jupyter Notebook.
-2. Open a console, run the following command to run the Jupyter notebook
+1. Follow the instructions [here](https://jupyter.readthedocs.io/en/latest/install.html) to install Python and Jupyter Lab.
+2. Open a console, run the following command to run the Jupyter-lab
 ```
- $ jupyter notebook
+ $ jupyter-lab
 ```
 or double-click the following file on pc if available
 ```
-$ _start_ipynb.bat
+$ _start_jupyter.bat
 ```
 3. Now, you can read, run and edit the code/markdown cells.
 ----------------------------

@@ -45,7 +45,7 @@
 1. 코딩으로의 초대
   - 인공지능 개발환경 구축
     - Anaconda, Github Desktop, Git
-    - Jupyter Notebook
+    - JuputerLab
   -	입출력, 자료형, 반복문
   - 과제: Pythagorean Theorem
 

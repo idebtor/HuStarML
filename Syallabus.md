@@ -34,10 +34,17 @@
 
 ## 3. 강의 일정 계획(Daily Schedule)
 
-### 1일차 
+### 1일차
 1. 인공지능으로의 초대
   - Kiva, Kensho, "AI is a new Electricity"
-  - KMOOCx 강의 1-1, 1-2, 1-3
+  - KMOOCx 강의 1-1, 1-2, 1-3   
+		- 1-1 (https://www.youtube.com/watch?v=cvfxrxhy9KA)   
+		- 1-2 (https://www.youtube.com/watch?v=PrJ3bgit620)   
+		- 1-3 (https://www.youtube.com/watch?v=D2Y60uJY_o0)   
+	- KMOOCx 퀴즈 1-1, 1-2, 1-3   
+		- [Quiz 1-1] (https://docs.google.com/forms/d/e/1FAIpQLSd2Y4RzIehedgF4hESw5y72P0r_sLckm101gbCJENrjhzImAQ/viewform?usp=sf_link)
+		- [Quiz 1-2] (https://docs.google.com/forms/d/e/1FAIpQLSfDbWRa7ayCEuqynaJHXkhkK6sM3jkt4vlIMzMeVgLWTRZbMg/viewform?usp=sf_link)
+		- [Quiz 1-3] (https://docs.google.com/forms/d/e/1FAIpQLSctzapSilQq8togt4YSNReNLgWhhUdKik1jvTsDB7wa4F_R0g/viewform?usp=sf_link)
   - 명강의 시리즈(1)
     - [남세동의 인공지능(딥러닝) 이야기 (8분)](https://www.youtube.com/watch?v=kMGEpIYPCiM)
     - [How computers learn to recognize objects instantly](https://www.youtube.com/watch?v=Cgxsv1riJhI&t=208s)
@@ -49,15 +56,24 @@
     - AI1-2 Jupyter.ipynb
     - AI1-3 Markdown.ipynb
       - Git, GitHub, Github Desktop
+			(https://www.youtube.com/watch?v=WPt3fhljd-c&list=PLQS78DCab0Iptq84l3_x_DTpzfwthj1Mh&index=3)
       - Anaconda (Python Development Package)
       - Jupyter-Lab (or Jupyter Notebook)
+			(https://www.youtube.com/watch?v=LJTjViQ87VM&list=PLQS78DCab0Iptq84l3_x_DTpzfwthj1Mh&index=2)
 1. 코딩으로의 초대(1)
   -	Py1 Overview.ipynb
   - Py2 DataTypes.ipynb
 
 ### 2일차
-2. 인공지능으로의 초대: 인공지능의 개요
+2. 인공지능으로의 초대(2)
   - KMOOCx 강의 2-1, 2-2, 2-3
+	 - 2-1 (https://www.youtube.com/watch?v=kFBno_BQ2g4)
+	 - 2-2 (https://www.youtube.com/watch?v=YH9dEQ6NwF8)
+	 - 2-3 (https://www.youtube.com/watch?v=6NsyPodmSBk)
+	- KMOOCx 퀴즈 2-1, 2-2, 2-3
+	 - [Quiz 2-1] (https://docs.google.com/forms/d/e/1FAIpQLSfK2C6FStV7RttyAPXqhlULxuwWJ6H6HOGB6O7p7RLNrYVxSQ/viewform?usp=sf_link)
+	 - [Quiz 2-2] (https://docs.google.com/forms/d/e/1FAIpQLSfA47mSxS4ccMEtpQ4CqXLqMKuW8NcxcClCePlAfXEHOUUmXg/viewform?usp=sf_link)
+	 - [Quiz 2-3] (https://docs.google.com/forms/d/e/1FAIpQLScxAKljNI3O1k282qXF7RAwy3WXW4dI-p-wPU30Eyu84fD-Zg/viewform?usp=sf_link)
   - 명강의 시리즈(2)
     - [머신러닝, 딥러닝 초간단 설명(7분)](https://www.youtube.com/watch?v=aF03asAmQbY)
     - [인공지능의 주인이 되기 위해 반드시 알아야 할 것들 (15분)](https://youtu.be/BKj3fnPSUIQ)
@@ -70,8 +86,11 @@
   - Py4 Function.ipynb
 
 ### 3일차
-3. 인공지능으로의 초대: 인공지능의 원리
+3. 인공지능으로의 초대(3)
   - KMOOCx 강의 3-1, 3-2, 3-3
+	 - 3-1
+	 - 3-2
+	 - 3-3
   - 명강의 시리즈(3)
     - [How we teach computers to understand pictures (17분45초)](https://youtu.be/40riCqvRoMs)
     - [How AI can save our humanity](https://youtu.be/ajGgd9Ld-Wc)
@@ -84,7 +103,10 @@
 
 ### 4일차
 4. 인공지능으로의 초대
-  - KMOOCx 강의 4-1, 4-2, 4-3
+  - KMOOCx 강의 
+    - 4-1
+    - 4-2 
+    - 4-3
   - 명강의 시리즈(4)
     - [The incredible inventions of intuitive AI(15분23초)](https://www.youtube.com/watch?v=aR5N2Jl8k14)
     - [How a Driverless Car sees the Road(15분)](https://youtu.be/tiwVMrTLUWg)
@@ -97,7 +119,10 @@
 
 ### 5일차
 5. 인공지능으로의 초대
-  - KMOOCx 강의 5-1, 5-2, 5-3
+  - KMOOCx 강의 
+    - 5-1
+    - 5-2
+    - 5-3
   - 명강의 시리즈(5)
     - [How we can teach computers to make sense of our emotions 11분13초](https://youtu.be/hs-YuHv0vUk)
     - [Can a robot pass a university entrance exam? 13분37초](https://www.youtube.com/watch?v=BXcFEhl7ynM)
@@ -141,7 +166,7 @@
   - MNIST자료 이해
   - 순전파 MNIST
 
-### 8 ~ 10일차: 
+### 8 ~ 10일차:
 내 손으로 만져보는 인공지능 및 프로젝트 수행과 발표
 8. 내 손으로 만져보는 인공지능(3)
   - 오차 역전파, 모델 만들기
@@ -149,13 +174,13 @@
   - AI7-3 MNIST.tf.keras Final.ipynb
 
 9. 내 손으로 만져보는 인공지능(4)
-  - 배추가격 예측하기 
+  - 배추가격 예측하기
   - 한동대 재학생 인공지능 프로젝트 내 것으로 만들기   
 
 10. 내 손으로 만져보는 인공지능(5)
   - MNIST 손글씨 숫자 인식하기(그룹 프로젝트)   
   - 내가 찾아낸 인공지능(그룹 프로젝트)
 
-### 본 교과목은 위의 영역에서 각 1개 이상의 프로젝트 수행하는 것을 목표로 함 
+### 본 교과목은 위의 영역에서 각 1개 이상의 프로젝트 수행하는 것을 목표로 함
 ------------------------------------------
 _In the beginning, God created the heaven and the earth. Gen1:1_

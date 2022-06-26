@@ -63,6 +63,7 @@
     - [인공지능의 주인이 되기 위해 반드시 알아야 할 것들 (15분)](https://youtu.be/BKj3fnPSUIQ)
     - [Fake videos of real people -- and how to spot them(7분)](https://youtu.be/o2DDU4g0PRo)
     - [Quiz 2](https://forms.gle/wh6u11F3dCJtjNei6)
+  - AI4-1 LinearRegression.ipynb
 
 2. 코딩으로의 초대(2)
   - Py3 Iteration.ipynb
@@ -75,6 +76,7 @@
     - [How we teach computers to understand pictures (17분45초)](https://youtu.be/40riCqvRoMs)
     - [How AI can save our humanity](https://youtu.be/ajGgd9Ld-Wc)
     - [Quiz 3](https://forms.gle/53TCeUh18Uf7QsP9A)
+  - AI4-2 GradientDescent.ipynb
 
 3. 코딩으로의 초대(3)
   - Py5 String.ipynb
@@ -87,6 +89,7 @@
     - [The incredible inventions of intuitive AI(15분23초)](https://www.youtube.com/watch?v=aR5N2Jl8k14)
     - [How a Driverless Car sees the Road(15분)](https://youtu.be/tiwVMrTLUWg)
     - [Quiz 4](https://forms.gle/8mqRf7GFU7L1EzHy6)
+  - AI4-3 LossFunction.ipynb
 
 4. 코딩으로의 초대(4)
   - Py7 Listcomp.ipynb
@@ -99,6 +102,7 @@
     - [How we can teach computers to make sense of our emotions 11분13초](https://youtu.be/hs-YuHv0vUk)
     - [Can a robot pass a university entrance exam? 13분37초](https://www.youtube.com/watch?v=BXcFEhl7ynM)
     - [Quiz 5](https://forms.gle/ntdB6N8DMBTFtxkVA)
+  - AI4-4 NeuronClass.ipynb
 
 4. 코딩으로의 초대(5)
   - AI3-1 NumPyBasics.ipynb
@@ -111,6 +115,7 @@
   - 명강의 시리즈(6)
     - [적정선은 어디인가? How Far is Too Far - 34분39초](https://youtu.be/UwsrzCVZAb8)
     - [Quiz 6](https://forms.gle/j4NQcbWcscKGByEs6)
+  - AI5-1 Perceptron_Sigmoid.ipynb
 
 6. 내 손으로 만져보는 인공지능(1)
   - 인공지능의 동작 원리,
@@ -128,6 +133,8 @@
   - 명강의 시리즈(7)
     - [A.I.를 통한 치유(Healed through A.I.) - 39분54초](https://youtu.be/V5aZjsWM2wo)
     - [Quiz 7](https://forms.gle/DpKTcUmv6TgNTdw46)
+  - AI7-1 Gate Final.ipynb
+  - AI7-2 XOR.tf.keras Final.ipynb
 
 7. 내 손으로 만져보는 인공지능(2)
   - 로지스틱 회귀, 손실함수
@@ -138,10 +145,8 @@
 내 손으로 만져보는 인공지능 및 프로젝트 수행과 발표
 8. 내 손으로 만져보는 인공지능(3)
   - 오차 역전파, 모델 만들기
-  - XOR Simulation
   - 역전파 MNIST
-  - 텐서플로우, 케라스, PyTorch
-  - MINST 데이터셋 다루기
+  - AI7-3 MNIST.tf.keras Final.ipynb
 
 9. 내 손으로 만져보는 인공지능(4)
   - 배추가격 예측하기 

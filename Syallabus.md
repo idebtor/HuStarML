@@ -90,9 +90,13 @@
 ### 3일차
 3. 인공지능으로의 초대(3)
   - KMOOCx 강의 3-1, 3-2, 3-3
-	 - 3-1
-	 - 3-2
-	 - 3-3
+	 - 3-1 (https://youtu.be/9ErRNdB19tc)
+	 - 3-2 (https://youtu.be/aYVYXROPCNA)
+	 - 3-3 (https://youtu.be/VxLIhhi5d30)
+	- KMOOCx 퀴즈 3-1, 3-2, 3-3   
+		- [Quiz 3-1] (https://docs.google.com/forms/d/e/1FAIpQLSedDHFnctZ-lFteJmQq2C-5BNA9pTl1gTxkfR5oVCD3MEZ8zw/viewform?usp=sf_link)
+		- [Quiz 3-2] (https://docs.google.com/forms/d/e/1FAIpQLSe9TdABcA4ACddvLTiz0C_hTMDXHFLdkVIeLpEyQLSfr6ZdYw/viewform?usp=sf_link)
+		- [Quiz 3-3] (https://docs.google.com/forms/d/e/1FAIpQLSfDnCgN9YpHNOuMm0xXi9T_1_O9DTBkVcFi31Jpx6wf3qTFzQ/viewform?usp=sf_link)
   - 명강의 시리즈(3)
     - [How we teach computers to understand pictures (17분45초)](https://youtu.be/40riCqvRoMs)
     - [How AI can save our humanity (15분)](https://youtu.be/ajGgd9Ld-Wc)
@@ -105,10 +109,10 @@
 
 ### 4일차
 4. 인공지능으로의 초대
-  - KMOOCx 강의 
-    - 4-1
-    - 4-2 
-    - 4-3
+  - KMOOCx 강의
+    - 4-1 (https://youtu.be/96q2pv-VAQE)
+    - 4-2 (https://youtu.be/BpdA1shbLIw)
+    - 4-3 (https://youtu.be/wuVRaGL9_uA)
   - 명강의 시리즈(4)
     - [The incredible inventions of intuitive AI(15분23초)](https://www.youtube.com/watch?v=aR5N2Jl8k14)
     - [How a Driverless Car sees the Road(15분)](https://youtu.be/tiwVMrTLUWg)
@@ -121,15 +125,15 @@
 
 ### 5일차
 5. 인공지능으로의 초대
-  - KMOOCx 강의 
-    - 5-1
-    - 5-2
-    - 5-3
+  - KMOOCx 강의
+    - 5-1 (https://youtu.be/YLKoPGYktA8)
+    - 5-2 (https://youtu.be/yehkxZtm8RE)
+    - 5-3 (https://youtu.be/hTolEdBldxo)
   - 명강의 시리즈(5)
     - [How we can teach computers to make sense of our emotions 11분13초](https://youtu.be/hs-YuHv0vUk)
     - [Can a robot pass a university entrance exam? 13분37초](https://www.youtube.com/watch?v=BXcFEhl7ynM)
     - [Quiz 5](https://forms.gle/ntdB6N8DMBTFtxkVA)
-  
+
 4. Python&AI 코딩으로의 초대(5)
   - Jupyter/AI3-1 NumPyBasics.ipynb
   - Jupyter/AI3-2 NumPyArrays.ipynb
@@ -138,7 +142,10 @@
 
 ### 6일차
 6. 인공지능으로의 초대
-  - KMOOCx 강의 6-1, 6-2, 6-3
+  - KMOOCx 강의
+		- 6-1 (https://youtu.be/eZoFUznHUO0)
+		- 6-2 (https://youtu.be/rWcDsPVawpo)
+		- 6-3 (https://youtu.be/sXOl9cHEORk)
   - 명강의 시리즈(6)
     - [적정선은 어디인가? How Far is Too Far - 34분39초](https://youtu.be/UwsrzCVZAb8)
     - [Quiz 6](https://forms.gle/j4NQcbWcscKGByEs6)
@@ -157,14 +164,17 @@
 
 ### 7일차
 7. 인공지능으로의 초대
-  - KMOOCx 강의 7-1, 7-2, 7-3
+  - KMOOCx 강의
+		- 7-1 (https://youtu.be/R9j1sn1va7o)
+		- 7-2 (https://youtu.be/5NVst_dIIIE)
+		- 7-3 (https://youtu.be/a0ZrHMRk-vU)
   - 명강의 시리즈(7)
     - [A.I.를 통한 치유(Healed through A.I.) - 39분54초](https://youtu.be/V5aZjsWM2wo)
     - [Quiz 7](https://forms.gle/DpKTcUmv6TgNTdw46)
-  
-  
+
+
 7. Python&AI 코딩으로의 초대(7)  
-  - Jupyter/AI7-1 Gate Final.ipynb6. 
+  - Jupyter/AI7-1 Gate Final.ipynb6.
   - Jupyter/AI7-2 XOR.tf.keras Final.ipynb
   - Jupyter/AI7-3 MNIST.tf.keras Final.ipynb
 
@@ -174,7 +184,10 @@
   - 순전파 MNIST
 
 ### 8 ~ 10일차:
-내 손으로 만져보는 인공지능 및 프로젝트 수행과 발표
+내 손으로 만져보는 인공지능 및 프로젝트 수행과 발표   
+	- KMOOCx 강의
+		- 14-1 (https://youtu.be/Tibz3iy8_8g)
+		- 14-2 (https://youtu.be/MLh3gB2nGfo
 8. 내 손으로 만져보는 인공지능(3)
   - 오차 역전파, 모델 만들기
   - 역전파 MNIST

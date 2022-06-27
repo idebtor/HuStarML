@@ -36,7 +36,10 @@
 
 ### 1일차
 1. 인공지능으로의 초대
-  - Kiva, Kensho, "AI is a new Electricity"
+  - [Kiva](https://www.youtube.com/watch?v=UTNsaG5ZleE)
+  - [Kensho](https://newspeppermint.com/2016/03/24/kensho3/)
+  - [“Artificial Intelligence is the New Electricity"](https://www.youtube.com/watch?v=NQK4ZY_gwKI)
+
   - KMOOCx 강의 1-1, 1-2, 1-3   
 		- 1-1 (https://www.youtube.com/watch?v=cvfxrxhy9KA)   
 		- 1-2 (https://www.youtube.com/watch?v=PrJ3bgit620)   
@@ -47,7 +50,7 @@
 		- [Quiz 1-3] (https://docs.google.com/forms/d/e/1FAIpQLSctzapSilQq8togt4YSNReNLgWhhUdKik1jvTsDB7wa4F_R0g/viewform?usp=sf_link)
   - 명강의 시리즈(1)
     - [남세동의 인공지능(딥러닝) 이야기 (8분)](https://www.youtube.com/watch?v=kMGEpIYPCiM)
-    - [How computers learn to recognize objects instantly](https://www.youtube.com/watch?v=Cgxsv1riJhI&t=208s)
+    - [How computers learn to recognize objects instantly (8분)](https://www.youtube.com/watch?v=Cgxsv1riJhI&t=208s)
     - [Quiz 1](https://forms.gle/jHUNTED9A4fRq75z6)
 
 1. 코딩으로의 초대(1)
@@ -56,10 +59,11 @@
     - AI1-2 Jupyter.ipynb
     - AI1-3 Markdown.ipynb
       - Git, GitHub, Github Desktop
-			(https://www.youtube.com/watch?v=WPt3fhljd-c&list=PLQS78DCab0Iptq84l3_x_DTpzfwthj1Mh&index=3)
+        [동영상 강의](https://www.youtube.com/watch?v=WPt3fhljd-c&list=PLQS78DCab0Iptq84l3_x_DTpzfwthj1Mh&index=3)
       - Anaconda (Python Development Package)
       - Jupyter-Lab (or Jupyter Notebook)
-			(https://www.youtube.com/watch?v=LJTjViQ87VM&list=PLQS78DCab0Iptq84l3_x_DTpzfwthj1Mh&index=2)
+        [동영상 강의](https://www.youtube.com/watch?v=LJTjViQ87VM&list=PLQS78DCab0Iptq84l3_x_DTpzfwthj1Mh&index=2)
+
 1. 코딩으로의 초대(1)
   -	Py1 Overview.ipynb
   - Py2 DataTypes.ipynb
@@ -79,11 +83,11 @@
     - [인공지능의 주인이 되기 위해 반드시 알아야 할 것들 (15분)](https://youtu.be/BKj3fnPSUIQ)
     - [Fake videos of real people -- and how to spot them(7분)](https://youtu.be/o2DDU4g0PRo)
     - [Quiz 2](https://forms.gle/wh6u11F3dCJtjNei6)
-  - AI4-1 LinearRegression.ipynb
 
-2. 코딩으로의 초대(2)
+2. Python&AI 코딩으로의 초대(2)
   - Py3 Iteration.ipynb
   - Py4 Function.ipynb
+  - AI4-1 LinearRegression.ipynb
 
 ### 3일차
 3. 인공지능으로의 초대(3)
@@ -93,13 +97,13 @@
 	 - 3-3
   - 명강의 시리즈(3)
     - [How we teach computers to understand pictures (17분45초)](https://youtu.be/40riCqvRoMs)
-    - [How AI can save our humanity](https://youtu.be/ajGgd9Ld-Wc)
+    - [How AI can save our humanity (15분)](https://youtu.be/ajGgd9Ld-Wc)
     - [Quiz 3](https://forms.gle/53TCeUh18Uf7QsP9A)
-  - AI4-2 GradientDescent.ipynb
 
-3. 코딩으로의 초대(3)
+3. Python&AI 코딩으로의 초대(3)
   - Py5 String.ipynb
   - Py6 List.ipynb
+  - AI4-2 GradientDescent.ipynb
 
 ### 4일차
 4. 인공지능으로의 초대
@@ -111,11 +115,11 @@
     - [The incredible inventions of intuitive AI(15분23초)](https://www.youtube.com/watch?v=aR5N2Jl8k14)
     - [How a Driverless Car sees the Road(15분)](https://youtu.be/tiwVMrTLUWg)
     - [Quiz 4](https://forms.gle/8mqRf7GFU7L1EzHy6)
-  - AI4-3 LossFunction.ipynb
 
-4. 코딩으로의 초대(4)
+4. Python&AI 코딩으로의 초대(4)
   - Py7 Listcomp.ipynb
   - Py8 Dictionary.ipynb
+  - AI4-3 LossFunction.ipynb
 
 ### 5일차
 5. 인공지능으로의 초대
@@ -127,12 +131,12 @@
     - [How we can teach computers to make sense of our emotions 11분13초](https://youtu.be/hs-YuHv0vUk)
     - [Can a robot pass a university entrance exam? 13분37초](https://www.youtube.com/watch?v=BXcFEhl7ynM)
     - [Quiz 5](https://forms.gle/ntdB6N8DMBTFtxkVA)
-  - AI4-4 NeuronClass.ipynb
-
-4. 코딩으로의 초대(5)
+  
+4. Python&AI 코딩으로의 초대(5)
   - AI3-1 NumPyBasics.ipynb
   - AI3-2 NumPyArrays.ipynb
   - AI3-3 NumPySlicing.ipynb
+  - AI4-4 NeuronClass.ipynb
 
 ### 6일차
 6. 인공지능으로의 초대
@@ -140,17 +144,18 @@
   - 명강의 시리즈(6)
     - [적정선은 어디인가? How Far is Too Far - 34분39초](https://youtu.be/UwsrzCVZAb8)
     - [Quiz 6](https://forms.gle/j4NQcbWcscKGByEs6)
-  - AI5-1 Perceptron_Sigmoid.ipynb
+
 
 6. 내 손으로 만져보는 인공지능(1)
   - 인공지능의 동작 원리,
   - 퍼셉트론, 다중 퍼셉트론, OOP 퍼셉트론
   - 선형 회귀, 경사 하강법
 
-6. 코딩으로의 초대(6)
+6. Python&AI 코딩으로의 초대(6)
   - AI3-4 NumPyBroadcast.ipynb
   - AI3-5 NumPyRandom.ipynb
   - AI3-6 NumPyProblemSet.ipynb
+  - AI5-1 Perceptron_Sigmoid.ipynb
 
 ### 7일차
 7. 인공지능으로의 초대
@@ -158,8 +163,12 @@
   - 명강의 시리즈(7)
     - [A.I.를 통한 치유(Healed through A.I.) - 39분54초](https://youtu.be/V5aZjsWM2wo)
     - [Quiz 7](https://forms.gle/DpKTcUmv6TgNTdw46)
-  - AI7-1 Gate Final.ipynb
+  
+  
+7. Python&AI 코딩으로의 초대(7)  
+  - AI7-1 Gate Final.ipynb6. 
   - AI7-2 XOR.tf.keras Final.ipynb
+  - AI7-3 MNIST.tf.keras Final.ipynb
 
 7. 내 손으로 만져보는 인공지능(2)
   - 로지스틱 회귀, 손실함수
@@ -171,7 +180,6 @@
 8. 내 손으로 만져보는 인공지능(3)
   - 오차 역전파, 모델 만들기
   - 역전파 MNIST
-  - AI7-3 MNIST.tf.keras Final.ipynb
 
 9. 내 손으로 만져보는 인공지능(4)
   - 배추가격 예측하기

@@ -1,5 +1,5 @@
 
-# 00 Getting Started
+# Getting Started
 
 #### HuStar Robot Academy
 

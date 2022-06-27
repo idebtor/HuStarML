@@ -35,7 +35,7 @@
 ## 3. 강의 일정 계획(Daily Schedule)
 
 ### 1일차
-1. 인공지능으로의 초대
+1. 인공지능으로의 초대(1)
   - [Kiva](https://www.youtube.com/watch?v=UTNsaG5ZleE)
   - [Kensho](https://newspeppermint.com/2016/03/24/kensho3/)
   - [“Artificial Intelligence is the New Electricity"](https://www.youtube.com/watch?v=NQK4ZY_gwKI)
@@ -53,7 +53,7 @@
     - [How computers learn to recognize objects instantly (8분)](https://www.youtube.com/watch?v=Cgxsv1riJhI&t=208s)
     - [Quiz 1](https://forms.gle/jHUNTED9A4fRq75z6)
 
-1. 코딩으로의 초대(1)
+1. Python&AI 코딩으로의 초대(1)
   - 인공지능 개발환경 구축
     - AI1-1 Gettingstarted.ipynb
     - AI1-2 Jupyter.ipynb
@@ -62,11 +62,9 @@
         [동영상 강의](https://www.youtube.com/watch?v=WPt3fhljd-c&list=PLQS78DCab0Iptq84l3_x_DTpzfwthj1Mh&index=3)
       - Anaconda (Python Development Package)
       - Jupyter-Lab (or Jupyter Notebook)
-        [동영상 강의](https://www.youtube.com/watch?v=LJTjViQ87VM&list=PLQS78DCab0Iptq84l3_x_DTpzfwthj1Mh&index=2)
-
-1. 코딩으로의 초대(1)
-  -	Py1 Overview.ipynb
-  - Py2 DataTypes.ipynb
+        [동영상 강의](https://www.youtube.com/watch?v=LJTjViQ87VM&list=PLQS78DCab0Iptq84l3_x_DTpzfwthj1Mh&index=2)  
+  -	Jupyter/Py1 Overview.ipynb  
+  - Jupyter/Py2 DataTypes.ipynb  
 
 ### 2일차
 2. 인공지능으로의 초대(2)
@@ -85,9 +83,9 @@
     - [Quiz 2](https://forms.gle/wh6u11F3dCJtjNei6)
 
 2. Python&AI 코딩으로의 초대(2)
-  - Py3 Iteration.ipynb
-  - Py4 Function.ipynb
-  - AI4-1 LinearRegression.ipynb
+  - Jupyter/Py3 Iteration.ipynb
+  - Jupyter/Py4 Function.ipynb
+  - Jupyter/AI4-1 LinearRegression.ipynb
 
 ### 3일차
 3. 인공지능으로의 초대(3)
@@ -101,9 +99,9 @@
     - [Quiz 3](https://forms.gle/53TCeUh18Uf7QsP9A)
 
 3. Python&AI 코딩으로의 초대(3)
-  - Py5 String.ipynb
-  - Py6 List.ipynb
-  - AI4-2 GradientDescent.ipynb
+  - Jupyter/Py5 String.ipynb
+  - Jupyter/Py6 List.ipynb
+  - Jupyter/AI4-2 GradientDescent.ipynb
 
 ### 4일차
 4. 인공지능으로의 초대
@@ -117,9 +115,9 @@
     - [Quiz 4](https://forms.gle/8mqRf7GFU7L1EzHy6)
 
 4. Python&AI 코딩으로의 초대(4)
-  - Py7 Listcomp.ipynb
-  - Py8 Dictionary.ipynb
-  - AI4-3 LossFunction.ipynb
+  - Jupyter/Py7 Listcomp.ipynb
+  - Jupyter/Py8 Dictionary.ipynb
+  - Jupyter/AI4-3 LossFunction.ipynb
 
 ### 5일차
 5. 인공지능으로의 초대
@@ -133,10 +131,10 @@
     - [Quiz 5](https://forms.gle/ntdB6N8DMBTFtxkVA)
   
 4. Python&AI 코딩으로의 초대(5)
-  - AI3-1 NumPyBasics.ipynb
-  - AI3-2 NumPyArrays.ipynb
-  - AI3-3 NumPySlicing.ipynb
-  - AI4-4 NeuronClass.ipynb
+  - Jupyter/AI3-1 NumPyBasics.ipynb
+  - Jupyter/AI3-2 NumPyArrays.ipynb
+  - Jupyter/AI3-3 NumPySlicing.ipynb
+  - Jupyter/AI4-4 NeuronClass.ipynb
 
 ### 6일차
 6. 인공지능으로의 초대
@@ -152,10 +150,10 @@
   - 선형 회귀, 경사 하강법
 
 6. Python&AI 코딩으로의 초대(6)
-  - AI3-4 NumPyBroadcast.ipynb
-  - AI3-5 NumPyRandom.ipynb
-  - AI3-6 NumPyProblemSet.ipynb
-  - AI5-1 Perceptron_Sigmoid.ipynb
+  - Jupyter/AI3-4 NumPyBroadcast.ipynb
+  - Jupyter/AI3-5 NumPyRandom.ipynb
+  - Jupyter/AI3-6 NumPyProblemSet.ipynb
+  - Jupyter/AI5-1 Perceptron_Sigmoid.ipynb
 
 ### 7일차
 7. 인공지능으로의 초대
@@ -166,9 +164,9 @@
   
   
 7. Python&AI 코딩으로의 초대(7)  
-  - AI7-1 Gate Final.ipynb6. 
-  - AI7-2 XOR.tf.keras Final.ipynb
-  - AI7-3 MNIST.tf.keras Final.ipynb
+  - Jupyter/AI7-1 Gate Final.ipynb6. 
+  - Jupyter/AI7-2 XOR.tf.keras Final.ipynb
+  - Jupyter/AI7-3 MNIST.tf.keras Final.ipynb
 
 7. 내 손으로 만져보는 인공지능(2)
   - 로지스틱 회귀, 손실함수

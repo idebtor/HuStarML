@@ -113,6 +113,10 @@
     - 4-1 (https://youtu.be/96q2pv-VAQE)
     - 4-2 (https://youtu.be/BpdA1shbLIw)
     - 4-3 (https://youtu.be/wuVRaGL9_uA)
+	- KMOOCx 퀴즈 4-1, 4-2, 4-3
+		- [Quiz 4-1] (https://docs.google.com/forms/d/e/1FAIpQLSd37WejSfzg9-FypYji6eVYhnUjs_5ubo3SyNouLJAaywnLxw/viewform?usp=sf_link)
+		- [Quiz 4-2] (https://docs.google.com/forms/d/e/1FAIpQLSdXH6hnTB2OlcyvBVXJ-g5OeBTvKOBCpDLGarNXUHGNeuiVmw/viewform?usp=sf_link)
+		- [Quiz 4-3] (https://docs.google.com/forms/d/e/1FAIpQLScN2XUd0KayfUB1_S5ePpoPnku0zuOujEx8ARKVpSnx_Xc8sg/viewform?usp=sf_link)
   - 명강의 시리즈(4)
     - [The incredible inventions of intuitive AI(15분23초)](https://www.youtube.com/watch?v=aR5N2Jl8k14)
     - [How a Driverless Car sees the Road(15분)](https://youtu.be/tiwVMrTLUWg)

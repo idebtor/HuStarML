@@ -133,6 +133,10 @@
     - 5-1 (https://youtu.be/YLKoPGYktA8)
     - 5-2 (https://youtu.be/yehkxZtm8RE)
     - 5-3 (https://youtu.be/hTolEdBldxo)
+	- KMOOCx 퀴즈 - 5-1, 5-2, 5-3
+		- [Quiz 5-1] https://docs.google.com/forms/d/e/1FAIpQLSfGSsmUQIulbVFiLtq8KzTQc2t5nFOL3GHk8XJaoJ0CUYOOqw/viewform?usp=sf_link)
+		- [Quiz 5-2] (https://docs.google.com/forms/d/e/1FAIpQLSdMYm6hdpU1RX9qyZ6nBJAivcf8IIcgc_7Q6BjJlAGfJ9CEig/viewform?usp=sf_link)
+		- [Quiz 5-3] (https://docs.google.com/forms/d/e/1FAIpQLSccuDl0pvh2RVe8K8j7P6hEWr4M0zic-eGV4wCQyYZV1fT-Vg/viewform?usp=sf_link)
   - 명강의 시리즈(5)
     - [How we can teach computers to make sense of our emotions 11분13초](https://youtu.be/hs-YuHv0vUk)
     - [Can a robot pass a university entrance exam? 13분37초](https://www.youtube.com/watch?v=BXcFEhl7ynM)

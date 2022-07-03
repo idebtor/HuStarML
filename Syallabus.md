@@ -163,7 +163,6 @@
 6. Python&AI 코딩으로의 초대(6)
   - Jupyter/AI3-4 NumPyBroadcast.ipynb
   - Jupyter/AI3-5 NumPyRandom.ipynb
-  - Jupyter/AI3-6 NumPyProblemSet.ipynb
   - Jupyter/AI5-1 Perceptron_Sigmoid.ipynb
 
 ### 7일차

@@ -154,6 +154,10 @@
 		- 6-1 (https://youtu.be/eZoFUznHUO0)
 		- 6-2 (https://youtu.be/rWcDsPVawpo)
 		- 6-3 (https://youtu.be/sXOl9cHEORk)
+	- KMOOCx 퀴즈 - 6-1, 6-2, 6-3
+		- [Quiz 6-1] (https://docs.google.com/forms/d/e/1FAIpQLSc7VFXME3q5UJw_f6lpJpBHtt9Z4W_Zzv0iG8UwY2WffqS5aA/viewform?usp=sf_link)
+		- [Quiz 6-2] (https://docs.google.com/forms/d/e/1FAIpQLSdNJ6v2B-Wd_W--YT34fom0GMmL0dWPw1vCqNMwtbaCXPKC5Q/viewform?usp=sf_link)
+		- [Quiz 6-3] (https://docs.google.com/forms/d/e/1FAIpQLSc4VdpMfNluaU61T0CFsAnEPjU2-VOe1xHAuvKGtwDS1-rxEQ/viewform?usp=sf_link)
   - 명강의 시리즈(6)
     - [적정선은 어디인가? How Far is Too Far - 34분39초](https://youtu.be/UwsrzCVZAb8)
     - [Quiz 6](https://forms.gle/j4NQcbWcscKGByEs6)

@@ -180,6 +180,10 @@
 		- 7-1 (https://youtu.be/R9j1sn1va7o)
 		- 7-2 (https://youtu.be/5NVst_dIIIE)
 		- 7-3 (https://youtu.be/a0ZrHMRk-vU)
+	- KMOOCx 퀴즈
+		- [Quiz 7-1] (https://docs.google.com/forms/d/e/1FAIpQLSenKh41Wwv2RnHQH2u3-tEXLJsJV0-oqaSQgVh2yPTD00vjaw/viewform?usp=sf_link)
+		- [Quiz 7-2] (https://docs.google.com/forms/d/e/1FAIpQLSe1dN32PlaCwWgVuE2px_0Nkj-EBiuXAtTc4EFmpPDRXj_SWw/viewform?usp=sf_link)
+		- [Quiz 7-3] (https://docs.google.com/forms/d/e/1FAIpQLScIap4QIC5l3yjHtcJc73FO5i-6ccaN2Z-BaRz9n9AFsgak-w/viewform?usp=sf_link)
   - 명강의 시리즈(7)
     - [A.I.를 통한 치유(Healed through A.I.) - 39분54초](https://youtu.be/V5aZjsWM2wo)
     - [Quiz 7](https://forms.gle/DpKTcUmv6TgNTdw46)
